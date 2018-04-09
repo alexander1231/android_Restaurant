@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PkExaRes</string>
+    <string name="la_choza_nautica">La Choza Nautica</string>
+    <string name="descuento">Descuento</string>
+    <string name="subtotal">SubTotal:</string>
+    <string name="igv">IGV:</string>
+    <string name="_10">10%</string>
+    <string name="total">Total:</string>
+    <string name="_20">20%</string>
+    <string name="descuento2">Descuento:</string>
+    <string-array name="number">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+</resources>
